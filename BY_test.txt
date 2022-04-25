@@ -1,3 +1,5 @@
 白艳
 learn gti version control tool  !
 "create a newbank."
+Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple.
