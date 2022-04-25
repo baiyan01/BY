@@ -1,2 +1,3 @@
 白艳
 learn gti version control tool  !
+"create a newbank."
